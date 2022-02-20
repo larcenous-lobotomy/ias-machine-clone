@@ -1,0 +1,21 @@
+main()
+{
+int a = 128;
+int b = -48;
+int c = -8;
+int d = 10;
+int e = 2;
+int ac = 0;
+int mq = 0;
+ac = b;
+ac = a;
+ac = -|d|;
+ac = |c|;
+
+ac = ac + |d|;
+ac = ac - |b|;
+mq = ac / e;
+ac = ac % e;
+ac = ac << 1;
+ac = ac >> 1;
+}
