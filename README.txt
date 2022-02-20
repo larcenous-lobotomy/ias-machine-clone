@@ -1,5 +1,7 @@
 LANGUAGE USED - Python3.8
 
+INTRODUCTION - The IAS machine was an early computer following the von Neumann architecture. This is a program that follows a similar workflow with a working implementation of a few instructions from the original instruction set.
+
 EXECUTION INSTRUCTIONS - 1) Change the name of one of the memoryK.txt to memory.txt (to select) before you execute.
                          2) cd into the IAS folder and execute "python3 IMT2019083_main.py"
 
